@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\practicas profesionales\\proyectorutina\\web\\controllers\\routinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|solutionrelative:controllers\\routinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71938277-D8E3-483E-AE3D-AD9E395607A4}|..\\Application\\Application.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\practicas profesionales\\proyectorutina\\application\\interfaces\\iroutineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71938277-D8E3-483E-AE3D-AD9E395607A4}|..\\Application\\Application.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\practicas profesionales\\proyectorutina\\application\\services\\routineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE3EB02-E3E2-4C70-A542-7CF496632739}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\practicas profesionales\\proyectorutina\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{903D6222-1972-4994-BB98-3EFF1AF68531}|..\\Domain\\Domain.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\practicas profesionales\\proyectorutina\\domain\\entities\\routine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{903D6222-1972-4994-BB98-3EFF1AF68531}|..\\Domain\\Domain.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\practicas profesionales\\proyectorutina\\domain\\entities\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{903D6222-1972-4994-BB98-3EFF1AF68531}|..\\Domain\\Domain.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\practicas profesionales\\proyectorutina\\domain\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\practicas profesionales\\proyectorutina\\web\\controllers\\gymcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|solutionrelative:controllers\\gymcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE3EB02-E3E2-4C70-A542-7CF496632739}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\practicas profesionales\\proyectorutina\\infrastructure\\repository\\routinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{903D6222-1972-4994-BB98-3EFF1AF68531}|..\\Domain\\Domain.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\practicas profesionales\\proyectorutina\\domain\\interfaces\\iroutinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRoutineService.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Application\\Interfaces\\IRoutineService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\IRoutineService.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Application\\Interfaces\\IRoutineService.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\IRoutineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T22:50:10.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoutineController.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Web\\Controllers\\RoutineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoutineController.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Web\\Controllers\\RoutineController.cs",
+              "RelativeToolTip": "Controllers\\RoutineController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T22:48:48.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Domain\\Entities\\Machine.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Machine.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Domain\\Entities\\Machine.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Machine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T22:13:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Domain\\Entities\\Exercise.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Exercise.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Domain\\Entities\\Exercise.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Exercise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T22:11:34.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoutineService.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Application\\Services\\RoutineService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\RoutineService.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Application\\Services\\RoutineService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\RoutineService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:48:35.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Routine.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Domain\\Entities\\Routine.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Routine.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Domain\\Entities\\Routine.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Routine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:35:35.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRoutineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Domain\\Interfaces\\IRoutineRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IRoutineRepository.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Domain\\Interfaces\\IRoutineRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\IRoutineRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:28:47.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoutineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Infrastructure\\Repository\\RoutineRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\RoutineRepository.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Infrastructure\\Repository\\RoutineRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repository\\RoutineRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:25:48.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GymController.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Web\\Controllers\\GymController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GymController.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Web\\Controllers\\GymController.cs",
+              "RelativeToolTip": "Controllers\\GymController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:20:55.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowB8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:01:43.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
