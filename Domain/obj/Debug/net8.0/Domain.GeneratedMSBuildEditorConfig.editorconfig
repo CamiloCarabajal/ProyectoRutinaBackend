@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Domain
-build_property.ProjectDir = C:\Users\fliac\OneDrive\Escritorio\Facultad\Segundo Año\Cuarto Cuatrimestre\Practicas Profesionales\ProyectoRutina\Domain\
+build_property.ProjectDir = C:\Users\fliac\OneDrive\Escritorio\Facultad\Segundo Año\Cuarto Cuatrimestre\Lab 4\ProyectoRutina Backend\ProyectoRutinaBackend\Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
