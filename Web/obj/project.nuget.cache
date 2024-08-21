@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HJ28sAbXUKo=",
+  "dgSpecHash": "2QJ8gp7D8HA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo Año\\Cuarto Cuatrimestre\\Practicas Profesionales\\ProyectoRutina\\Web\\Web.csproj",
+  "projectFilePath": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo Año\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Web\\Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fliac\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
     "C:\\Users\\fliac\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",

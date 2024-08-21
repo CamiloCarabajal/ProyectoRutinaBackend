@@ -1,4 +1,5 @@
 ﻿using Application.Interfaces;
+using Domain.Entities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -15,9 +16,32 @@ namespace Web.Controllers
         }
 
         [HttpGet]
-        public ActionResult List<Routine> GetAll()
+        public List<Routine> GetRoutines() 
         {
-            return Ok(_routineService.GetAll());
+            var routines = _routineService.GetAll(); 
+            return routines;
+        }
+
+        [HttpGet("id")]
+        public Routine GetRoutine(int id) 
+        {
+            var routine= _routineService.GetById(id);
+            return routine;
+        }
+        [HttpPost]
+        public void PostRoutine(Routine routine) 
+        {
+            _routineService.AddRoutine(routine);
+        }
+        [HttpPut]
+        public void PutRoutine(Routine routine) 
+        {
+            _routineService.AddRoutine(routine);
+        }
+        [HttpDelete]
+        public void DeleteRoutine(int id) 
+        {
+            _routineService.DeleteById(id);
         }
     }
 }
