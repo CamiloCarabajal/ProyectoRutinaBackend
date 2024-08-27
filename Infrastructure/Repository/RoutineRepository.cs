@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Azure.Core;
 using Domain.Entities;
 using Domain.Interfaces;
 using Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Repository
 {
@@ -19,7 +21,11 @@ namespace Infrastructure.Repository
 
         public List<Routine> Get()
         {
-            return _context.Routines.ToList();
+          //  return _context.Routines.ToList();
+            return _context.Routines
+                        .Include(r => r.RoutineExercises)
+                        .ThenInclude(re => re.Exercise)
+                        .ToList();
         }
 
         public Routine? GetById(int id) 
@@ -29,7 +35,7 @@ namespace Infrastructure.Repository
 
         public Routine AddRoutine(Routine routine) 
         {
-             _context.Routines.Add(routine);
+            _context.Routines.Add(routine);
             _context.SaveChanges();
             return routine;
         }

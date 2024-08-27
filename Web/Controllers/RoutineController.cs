@@ -1,4 +1,5 @@
 ﻿using Application.Interfaces;
+using Application.Models.Request;
 using Domain.Entities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -16,7 +17,7 @@ namespace Web.Controllers
         }
 
         [HttpGet]
-        public List<Routine> GetRoutines() 
+        public ActionResult<ICollection<Routine>> GetRoutines() 
         {
             var routines = _routineService.GetAll(); 
             return routines;
@@ -29,14 +30,15 @@ namespace Web.Controllers
             return routine;
         }
         [HttpPost]
-        public void PostRoutine(Routine routine) 
+        public void PostRoutine(RequestRoutineDto routineDto) 
         {
-            _routineService.AddRoutine(routine);
+
+            _routineService.AddRoutine(routineDto);
         }
         [HttpPut]
         public void PutRoutine(Routine routine) 
         {
-            _routineService.AddRoutine(routine);
+            _routineService.UpdateRoutine(routine);
         }
         [HttpDelete]
         public void DeleteRoutine(int id) 
