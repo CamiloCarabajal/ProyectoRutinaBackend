@@ -15,8 +15,9 @@ namespace Domain.Entities
         public int Id { get; set; }
         public string? Name { get; set; }
         public string? Category { get; set; }
-       // public Machine? MachineInUse { get; set; } // Relacion con Maquina
-
+        // public Machine? MachineInUse { get; set; } // Relacion con Maquina
         public bool? UseMachine { get; set; }
+
+        public ICollection<RoutineExercise> RoutineExercises { get; set; }
     }
 }

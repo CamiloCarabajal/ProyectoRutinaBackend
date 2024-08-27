@@ -1,4 +1,5 @@
-﻿using Domain.Entities;
+﻿using Application.Models.Request;
+using Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,7 +13,7 @@ namespace Application.Interfaces
         public List<Routine> GetAll();
         public Routine? GetById(int id);
         public void DeleteById(int id);
-        public Routine AddRoutine(Routine routine);
+        public RequestRoutineDto AddRoutine(RequestRoutineDto routineDto);
         public void UpdateRoutine(Routine routine);
     }
 }

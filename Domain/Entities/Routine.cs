@@ -16,9 +16,6 @@ namespace Domain.Entities
         public string Name { get; set; }
         public string Difficulty { get; set; }
         public string Duration { get; set; }
-
-        [ForeignKey("ExerciseId")]
-        public int ExerciseId { get; set; }
-        public ICollection<Exercise> Exercises { get; set; } // Relacion con Ejercicio
+        public ICollection<RoutineExercise> RoutineExercises { get; set; }
     }
 }

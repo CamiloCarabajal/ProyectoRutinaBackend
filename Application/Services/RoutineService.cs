@@ -5,10 +5,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Application.Interfaces;
+using Application.Models.Request;
 
 namespace Application.Services
 {
-    public class RoutineService
+    public class RoutineService : IRoutineService
     {
         private readonly IRoutineRepository _routineRepository;
         public RoutineService(IRoutineRepository routineRepository)
@@ -28,9 +30,21 @@ namespace Application.Services
         {
             _routineRepository.DeleteRoutine(id);
         }
-        public Routine AddRoutine(Routine routine) 
+        public RequestRoutineDto AddRoutine(RequestRoutineDto routineDto) 
         {
-            return _routineRepository.AddRoutine(routine);
+            var routine = new Routine
+            {
+                Name = routineDto.Name,
+                Difficulty = routineDto.Difficulty,
+                Duration = routineDto.Duration,
+                RoutineExercises = routineDto.ExerciseId.Select(id => new RoutineExercise
+                {
+                    ExerciseId = id
+                }).ToList()
+            };
+
+             _routineRepository.AddRoutine(routine);
+            return routineDto;
         }
         public void UpdateRoutine(Routine routine) 
         {
