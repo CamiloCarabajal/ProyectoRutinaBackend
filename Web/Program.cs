@@ -9,9 +9,18 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-//builder.Services.AddCors();
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowLocalhost5173",
+        policy =>
+        {
+            policy.WithOrigins("http://localhost:5173")
+                  .AllowAnyHeader()
+                  .AllowAnyMethod();
+        });
+});
+
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -31,11 +40,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(dbContextOptions => dbContex
         options.MigrationsAssembly("Web")));
 #endregion
 
-
 builder.Services.AddScoped<IRoutineRepository, RoutineRepository>();
-
 builder.Services.AddScoped<IRoutineService, RoutineService>();
-
 
 var app = builder.Build();
 
@@ -47,6 +53,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+// Apply the CORS policy
+app.UseCors("AllowLocalhost5173");
 
 app.UseAuthorization();
 

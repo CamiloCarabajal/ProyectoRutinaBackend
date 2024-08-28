@@ -10,3 +10,15 @@ C:\Users\fliac\OneDrive\Escritorio\Facultad\Segundo Año\Cuarto Cuatrimestre\Lab
 C:\Users\fliac\OneDrive\Escritorio\Facultad\Segundo Año\Cuarto Cuatrimestre\Lab 4\ProyectoRutina Backend\ProyectoRutinaBackend\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\fliac\OneDrive\Escritorio\Facultad\Segundo Año\Cuarto Cuatrimestre\Lab 4\ProyectoRutina Backend\ProyectoRutinaBackend\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\fliac\OneDrive\Escritorio\Facultad\Segundo Año\Cuarto Cuatrimestre\Lab 4\ProyectoRutina Backend\ProyectoRutinaBackend\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Javi\Tup fac\4to Cuatrimestre\LC4\ProyectoRutina\ProyectoRutinaBackend\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Javi\Tup fac\4to Cuatrimestre\LC4\ProyectoRutina\ProyectoRutinaBackend\Domain\bin\Debug\net8.0\Domain.dll
+C:\Javi\Tup fac\4to Cuatrimestre\LC4\ProyectoRutina\ProyectoRutinaBackend\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Javi\Tup fac\4to Cuatrimestre\LC4\ProyectoRutina\ProyectoRutinaBackend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Javi\Tup fac\4to Cuatrimestre\LC4\ProyectoRutina\ProyectoRutinaBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Javi\Tup fac\4to Cuatrimestre\LC4\ProyectoRutina\ProyectoRutinaBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Javi\Tup fac\4to Cuatrimestre\LC4\ProyectoRutina\ProyectoRutinaBackend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Javi\Tup fac\4to Cuatrimestre\LC4\ProyectoRutina\ProyectoRutinaBackend\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Javi\Tup fac\4to Cuatrimestre\LC4\ProyectoRutina\ProyectoRutinaBackend\Domain\obj\Debug\net8.0\Domain.dll
+C:\Javi\Tup fac\4to Cuatrimestre\LC4\ProyectoRutina\ProyectoRutinaBackend\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Javi\Tup fac\4to Cuatrimestre\LC4\ProyectoRutina\ProyectoRutinaBackend\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Javi\Tup fac\4to Cuatrimestre\LC4\ProyectoRutina\ProyectoRutinaBackend\Domain\obj\Debug\net8.0\ref\Domain.dll
