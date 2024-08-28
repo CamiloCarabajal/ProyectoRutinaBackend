@@ -1,22 +1,31 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Web\\",
+  "WorkspaceRootPath": "C:\\Javi\\Tup fac\\4to Cuatrimestre\\LC4\\ProyectoRutina\\ProyectoRutinaBackend\\Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\lab 4\\proyectorutina backend\\proyectorutinabackend\\web\\controllers\\routinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{903D6222-1972-4994-BB98-3EFF1AF68531}|..\\Domain\\Domain.csproj|c:\\javi\\tup fac\\4to cuatrimestre\\lc4\\proyectorutina\\proyectorutinabackend\\domain\\entities\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{903D6222-1972-4994-BB98-3EFF1AF68531}|..\\Domain\\Domain.csproj|c:\\javi\\tup fac\\4to cuatrimestre\\lc4\\proyectorutina\\proyectorutinabackend\\domain\\entities\\routineexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{903D6222-1972-4994-BB98-3EFF1AF68531}|..\\Domain\\Domain.csproj|c:\\javi\\tup fac\\4to cuatrimestre\\lc4\\proyectorutina\\proyectorutinabackend\\domain\\entities\\routine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|c:\\javi\\tup fac\\4to cuatrimestre\\lc4\\proyectorutina\\proyectorutinabackend\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|c:\\javi\\tup fac\\4to cuatrimestre\\lc4\\proyectorutina\\proyectorutinabackend\\web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|c:\\javi\\tup fac\\4to cuatrimestre\\lc4\\proyectorutina\\proyectorutinabackend\\web\\controllers\\routinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|solutionrelative:controllers\\routinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71938277-D8E3-483E-AE3D-AD9E395607A4}|..\\Application\\Application.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\lab 4\\proyectorutina backend\\proyectorutinabackend\\application\\services\\routineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAE3EB02-E3E2-4C70-A542-7CF496632739}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\lab 4\\proyectorutina backend\\proyectorutinabackend\\infrastructure\\repository\\routinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71938277-D8E3-483E-AE3D-AD9E395607A4}|..\\Application\\Application.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\lab 4\\proyectorutina backend\\proyectorutinabackend\\application\\interfaces\\iroutineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71938277-D8E3-483E-AE3D-AD9E395607A4}|..\\Application\\Application.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\lab 4\\proyectorutina backend\\proyectorutinabackend\\application\\models\\request\\requestroutinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|c:\\javi\\tup fac\\4to cuatrimestre\\lc4\\proyectorutina\\proyectorutinabackend\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,91 +35,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IRoutineService.cs",
-              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Application\\Interfaces\\IRoutineService.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\IRoutineService.cs",
-              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Application\\Interfaces\\IRoutineService.cs",
-              "RelativeToolTip": "..\\Application\\Interfaces\\IRoutineService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T22:44:10.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RoutineController.cs",
-              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Web\\Controllers\\RoutineController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RoutineController.cs",
-              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Web\\Controllers\\RoutineController.cs",
-              "RelativeToolTip": "Controllers\\RoutineController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T22:37:31.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RoutineService.cs",
-              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Application\\Services\\RoutineService.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Services\\RoutineService.cs",
-              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Application\\Services\\RoutineService.cs",
-              "RelativeToolTip": "..\\Application\\Services\\RoutineService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T22:34:57.162Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RoutineRepository.cs",
-              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Infrastructure\\Repository\\RoutineRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\RoutineRepository.cs",
-              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Infrastructure\\Repository\\RoutineRepository.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Repository\\RoutineRepository.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABsAAAAiAAAA",
+              "Title": "Routine.cs",
+              "DocumentMoniker": "C:\\Javi\\Tup fac\\4to Cuatrimestre\\LC4\\ProyectoRutina\\ProyectoRutinaBackend\\Domain\\Entities\\Routine.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Routine.cs",
+              "ToolTip": "C:\\Javi\\Tup fac\\4to Cuatrimestre\\LC4\\ProyectoRutina\\ProyectoRutinaBackend\\Domain\\Entities\\Routine.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Routine.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T22:21:33.376Z",
+              "WhenOpened": "2024-08-27T22:15:01.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RequestRoutineDto.cs",
-              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Application\\Models\\Request\\RequestRoutineDto.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Models\\Request\\RequestRoutineDto.cs",
-              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Application\\Models\\Request\\RequestRoutineDto.cs",
-              "RelativeToolTip": "..\\Application\\Models\\Request\\RequestRoutineDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Javi\\Tup fac\\4to Cuatrimestre\\LC4\\ProyectoRutina\\ProyectoRutinaBackend\\Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Javi\\Tup fac\\4to Cuatrimestre\\LC4\\ProyectoRutina\\ProyectoRutinaBackend\\Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T21:06:20.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Javi\\Tup fac\\4to Cuatrimestre\\LC4\\ProyectoRutina\\ProyectoRutinaBackend\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Javi\\Tup fac\\4to Cuatrimestre\\LC4\\ProyectoRutina\\ProyectoRutinaBackend\\Web\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T21:06:03.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoutineExercise.cs",
+              "DocumentMoniker": "C:\\Javi\\Tup fac\\4to Cuatrimestre\\LC4\\ProyectoRutina\\ProyectoRutinaBackend\\Domain\\Entities\\RoutineExercise.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\RoutineExercise.cs",
+              "ToolTip": "C:\\Javi\\Tup fac\\4to Cuatrimestre\\LC4\\ProyectoRutina\\ProyectoRutinaBackend\\Domain\\Entities\\RoutineExercise.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\RoutineExercise.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T21:55:59.007Z"
+              "WhenOpened": "2024-08-27T20:53:49.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\Javi\\Tup fac\\4to Cuatrimestre\\LC4\\ProyectoRutina\\ProyectoRutinaBackend\\Domain\\Entities\\Exercise.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Exercise.cs",
+              "ToolTip": "C:\\Javi\\Tup fac\\4to Cuatrimestre\\LC4\\ProyectoRutina\\ProyectoRutinaBackend\\Domain\\Entities\\Exercise.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Exercise.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:53:38.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Javi\\Tup fac\\4to Cuatrimestre\\LC4\\ProyectoRutina\\ProyectoRutinaBackend\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Javi\\Tup fac\\4to Cuatrimestre\\LC4\\ProyectoRutina\\ProyectoRutinaBackend\\Web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAADgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:09:08.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoutineController.cs",
+              "DocumentMoniker": "C:\\Javi\\Tup fac\\4to Cuatrimestre\\LC4\\ProyectoRutina\\ProyectoRutinaBackend\\Web\\Controllers\\RoutineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoutineController.cs",
+              "ToolTip": "C:\\Javi\\Tup fac\\4to Cuatrimestre\\LC4\\ProyectoRutina\\ProyectoRutinaBackend\\Web\\Controllers\\RoutineController.cs",
+              "RelativeToolTip": "Controllers\\RoutineController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T22:37:31.536Z",
+              "EditorCaption": ""
             }
           ]
         }
