@@ -24,7 +24,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-#region
+#region 
 string connectionString = builder.Configuration["ConnectionStrings:ProyectoRutinaConnectionString"]!;
 var connection = new SqliteConnection(connectionString);
 connection.Open();
@@ -42,6 +42,9 @@ builder.Services.AddDbContext<ApplicationDbContext>(dbContextOptions => dbContex
 
 builder.Services.AddScoped<IRoutineRepository, RoutineRepository>();
 builder.Services.AddScoped<IRoutineService, RoutineService>();
+
+builder.Services.AddScoped<IExerciseRepository, ExerciseRepository>();
+builder.Services.AddScoped<IExerciseService, ExerciseService>();
 
 var app = builder.Build();
 

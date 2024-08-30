@@ -8,5 +8,9 @@ namespace Application.Models
 {
     public class RoutineDto
     {
+        public string Name { get; set; }
+        public string Difficulty { get; set; }
+        public string Duration { get; set; }
+        public List<ExerciseDto> RoutineExercises { get; set; }
     }
 }

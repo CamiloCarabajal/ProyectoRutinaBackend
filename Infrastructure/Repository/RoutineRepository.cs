@@ -21,12 +21,12 @@ namespace Infrastructure.Repository
 
         public List<Routine> Get()
         {
-          //  return _context.Routines.ToList();
+            //  return _context.Routines.ToList();
             return _context.Routines
                         .Include(r => r.RoutineExercises)
                         .ThenInclude(re => re.Exercise)
                         .ToList();
-        }
+                        }
 
         public Routine? GetById(int id) 
         {

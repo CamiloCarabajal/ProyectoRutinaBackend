@@ -1,4 +1,5 @@
-﻿using Application.Models.Request;
+﻿using Application.Models;
+using Application.Models.Request;
 using Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -10,7 +11,7 @@ namespace Application.Interfaces
 {
     public interface IRoutineService
     {
-        public List<Routine> GetAll();
+        public List<RoutineDto> GetAll();
         public Routine? GetById(int id);
         public void DeleteById(int id);
         public RequestRoutineDto AddRoutine(RequestRoutineDto routineDto);
