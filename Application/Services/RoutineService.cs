@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Application.Interfaces;
 using Application.Models.Request;
+using Application.Models;
 
 namespace Application.Services
 {
@@ -18,9 +19,24 @@ namespace Application.Services
             _routineRepository = routineRepository;
         }
 
-        public List<Routine> GetAll() 
+        public List<RoutineDto> GetAll() 
         {
-            return _routineRepository.Get();
+            var routines = _routineRepository.Get();
+            var routineDtos = routines.Select(r => new RoutineDto
+            {
+                Name = r.Name,
+                Difficulty = r.Difficulty,
+                Duration = r.Duration,
+                RoutineExercises = r.RoutineExercises.Select(re => new ExerciseDto
+                {
+                    Name = re.Exercise.Name,
+                    Category = re.Exercise.Name,
+                    UseMachine = re.Exercise.UseMachine
+
+                }).ToList()
+            }).ToList();
+            return routineDtos;
+
         }
         public Routine? GetById(int id) 
         {

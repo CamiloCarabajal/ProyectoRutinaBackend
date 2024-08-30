@@ -1,4 +1,5 @@
 ﻿using Application.Interfaces;
+using Application.Models;
 using Application.Models.Request;
 using Domain.Entities;
 using Microsoft.AspNetCore.Http;
@@ -17,10 +18,10 @@ namespace Web.Controllers
         }
 
         [HttpGet]
-        public ActionResult<ICollection<Routine>> GetRoutines() 
+        public ActionResult<ICollection<RoutineDto>> GetRoutines() 
         {
-            var routines = _routineService.GetAll(); 
-            return routines;
+            var routinesDto = _routineService.GetAll(); 
+            return routinesDto;
         }
 
         [HttpGet("id")]
