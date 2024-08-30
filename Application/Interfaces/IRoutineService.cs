@@ -15,6 +15,6 @@ namespace Application.Interfaces
         public Routine? GetById(int id);
         public void DeleteById(int id);
         public RequestRoutineDto AddRoutine(RequestRoutineDto routineDto);
-        public void UpdateRoutine(Routine routine);
+        public void UpdateRoutine(RequestRoutineDto routineDto);
     }
 }

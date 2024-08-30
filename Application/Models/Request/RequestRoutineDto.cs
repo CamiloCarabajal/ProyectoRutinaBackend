@@ -12,6 +12,6 @@ namespace Application.Models.Request
         public string Difficulty { get; set; }
         public string Duration { get; set; }
 
-        public List<int> ExerciseId { get; set; }
+       // public List<int> ExerciseId { get; set; }
     }
 }
