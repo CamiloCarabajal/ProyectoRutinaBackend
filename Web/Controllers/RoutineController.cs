@@ -37,9 +37,9 @@ namespace Web.Controllers
             _routineService.AddRoutine(routineDto);
         }
         [HttpPut]
-        public void PutRoutine(Routine routine) 
+        public void PutRoutine(RequestRoutineDto routinedto) 
         {
-            _routineService.UpdateRoutine(routine);
+            _routineService.UpdateRoutine(routinedto);
         }
         [HttpDelete]
         public void DeleteRoutine(int id) 

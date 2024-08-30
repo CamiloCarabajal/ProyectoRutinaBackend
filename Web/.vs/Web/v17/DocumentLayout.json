@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71938277-D8E3-483E-AE3D-AD9E395607A4}|..\\Application\\Application.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\lab 4\\proyectorutina backend\\proyectorutinabackend\\application\\interfaces\\iroutineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\lab 4\\proyectorutina backend\\proyectorutinabackend\\web\\controllers\\routinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|solutionrelative:controllers\\routinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71938277-D8E3-483E-AE3D-AD9E395607A4}|..\\Application\\Application.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\lab 4\\proyectorutina backend\\proyectorutinabackend\\application\\services\\routineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71938277-D8E3-483E-AE3D-AD9E395607A4}|..\\Application\\Application.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\lab 4\\proyectorutina backend\\proyectorutinabackend\\application\\models\\request\\requestroutinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{903D6222-1972-4994-BB98-3EFF1AF68531}|..\\Domain\\Domain.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\lab 4\\proyectorutina backend\\proyectorutinabackend\\domain\\entities\\routineexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|c:\\users\\fliac\\onedrive\\escritorio\\facultad\\segundo a\u00F1o\\cuarto cuatrimestre\\lab 4\\proyectorutina backend\\proyectorutinabackend\\web\\controllers\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89D2EA35-4C0B-496F-A51F-E6E38FAFCBD7}|Web.csproj|solutionrelative:controllers\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,8 +49,77 @@
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IRoutineService.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Application\\Interfaces\\IRoutineService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\IRoutineService.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Application\\Interfaces\\IRoutineService.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\IRoutineService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T22:35:12.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoutineController.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Web\\Controllers\\RoutineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoutineController.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Web\\Controllers\\RoutineController.cs",
+              "RelativeToolTip": "Controllers\\RoutineController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T22:32:41.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoutineService.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Application\\Services\\RoutineService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\RoutineService.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Application\\Services\\RoutineService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\RoutineService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T22:31:24.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestRoutineDto.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Application\\Models\\Request\\RequestRoutineDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Models\\Request\\RequestRoutineDto.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Application\\Models\\Request\\RequestRoutineDto.cs",
+              "RelativeToolTip": "..\\Application\\Models\\Request\\RequestRoutineDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T22:31:02.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoutineExercise.cs",
+              "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Domain\\Entities\\RoutineExercise.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\RoutineExercise.cs",
+              "ToolTip": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Domain\\Entities\\RoutineExercise.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\RoutineExercise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T22:10:13.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ExerciseController.cs",
               "DocumentMoniker": "C:\\Users\\fliac\\OneDrive\\Escritorio\\Facultad\\Segundo A\u00F1o\\Cuarto Cuatrimestre\\Lab 4\\ProyectoRutina Backend\\ProyectoRutinaBackend\\Web\\Controllers\\ExerciseController.cs",
               "RelativeDocumentMoniker": "Controllers\\ExerciseController.cs",

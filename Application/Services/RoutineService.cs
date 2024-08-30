@@ -53,18 +53,21 @@ namespace Application.Services
                 Name = routineDto.Name,
                 Difficulty = routineDto.Difficulty,
                 Duration = routineDto.Duration,
-                RoutineExercises = routineDto.ExerciseId.Select(id => new RoutineExercise
-                {
-                    ExerciseId = id
-                }).ToList()
             };
 
              _routineRepository.AddRoutine(routine);
             return routineDto;
         }
-        public void UpdateRoutine(Routine routine) 
+        public void UpdateRoutine(RequestRoutineDto routineDto) 
         {
+            var routine = new Routine
+            {
+                Name = routineDto.Name,
+                Difficulty = routineDto.Difficulty,
+                Duration = routineDto.Duration,
+            };
             _routineRepository.UpdateRoutine(routine);
+            
         }
     }
 }
