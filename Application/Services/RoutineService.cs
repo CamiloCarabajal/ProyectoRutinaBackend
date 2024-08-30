@@ -24,6 +24,7 @@ namespace Application.Services
             var routines = _routineRepository.Get();
             var routineDtos = routines.Select(r => new RoutineDto
             {
+                Id = r.Id,
                 Name = r.Name,
                 Difficulty = r.Difficulty,
                 Duration = r.Duration,
